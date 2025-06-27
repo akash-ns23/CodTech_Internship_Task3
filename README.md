@@ -45,3 +45,6 @@ how are you?
 
 bye
 
+OUTPUT:
+
+[chatbot_output_sample.txt](https://github.com/user-attachments/files/20942140/chatbot_output_sample.txt)
