@@ -31,8 +31,6 @@ MENTOR: NEELA SANTOSH
    
 Run the script:
 
-bash
-
 python codtech_task3_ai_chatbot.py
 
 Interact with the chatbot in the terminal. Example prompts:
